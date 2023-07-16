@@ -28,7 +28,7 @@ export class StatsController {
     return stats;
   }
 
-  @Put(':id')
+  @Put('/:id')
   async update(@Param('id') id: number, @Body() body: UpdateStatDto) {
     const stats = await this.statsService.update(id, body);
     return stats;
