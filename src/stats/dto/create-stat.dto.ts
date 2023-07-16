@@ -1,23 +1,16 @@
-import { IsNumber, Min, Max } from 'class-validator';
+import { IsNumber } from 'class-validator';
+import { Transform } from 'class-transformer';
 
 export class CreateStatDto {
   @IsNumber()
-  @Min(0)
-  @Max(999999)
+  @Transform(({ value }) => parseInt(value))
   lessonId: number;
 
   @IsNumber()
-  @Min(0)
-  @Max(100)
+  @Transform(({ value }) => parseInt(value))
   score: number;
 
   @IsNumber()
-  @Min(0)
-  @Max(100)
+  @Transform(({ value }) => parseInt(value))
   outOf: number;
-
-  @IsNumber()
-  @Min(0)
-  @Max(999999)
-  userId: number;
 }

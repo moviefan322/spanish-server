@@ -2,7 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { readFile } from 'fs';
 import { join } from 'path';
 
-const filePath = join(__dirname, '..', 'lessonData', 'unit1.json');
+const filePath = join(__dirname, '..', '..', 'lessonData', 'unit1.json');
 
 const getLessons = async () => {
   const unit1 = await new Promise((resolve, reject) => {
