@@ -10,4 +10,16 @@ export class Flashcard {
 
   @Column()
   english: string;
+
+  @Column({ default: true })
+  priority: boolean;
+
+  @Column({ default: 0 })
+  correctGuess: number;
+
+  @Column({ default: 0 })
+  falseGuess: number;
+
+  @Column('simple-array', { default: [] })
+  last5: string[];
 }

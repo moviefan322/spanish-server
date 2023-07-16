@@ -6,7 +6,4 @@ export class CreateFlashcardDto {
 
   @IsString()
   english: string;
-
-  @IsNumber()
-  userId: number;
 }
