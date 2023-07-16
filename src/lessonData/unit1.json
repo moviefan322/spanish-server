@@ -1,0 +1,1078 @@
+{
+  "title": "The Present Tense of Regular Verbs, Irregular Verbs, and Verbs with Speling Changes",
+  "lessonCount": 10,
+  "lessons": [
+    [
+      { "type": "title", "text": "Regular Verbs in the Present Tense" },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "To form the present tense, drop the -ar, -er, or -ir from the root (or radical) of the inﬁnitive, and add the ending that corresponds to the subject.",
+              "The following verbs can be used as models for all regular verbs in the present tense."
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "comprar (to buy)",
+            "chart": [
+              "compro (I buy)",
+              "compras (you buy)",
+              "compra (he/she/it buys)",
+              "compramos (we buy)",
+              "compráis (you all buy)",
+              "compran (they buy)"
+            ]
+          },
+          {
+            "title": "aprendar (to learn)",
+            "chart": [
+              "aprendo (I learn)",
+              "aprendes (you learn)",
+              "aprende (he/she/it learns)",
+              "aprendemos (we learn)",
+              "aprendéis (you all learn)",
+              "aprenden (they learn)"
+            ]
+          },
+          {
+            "title": "recibir (to receive)",
+            "chart": [
+              "recibo (I receive)",
+              "recibes (you receive)",
+              "recibe (he/she/it receives)",
+              "recibimos (we receive)",
+              "recibís (you all receive)",
+              "reciben (they receive)"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "The first-person singular yo has the same ending in all three conjugations.",
+              "In the -er and -ir verb categories all three third-person singular forms have the same endings.",
+              "Subject pronouns are usually omitted in Spanish unless they are needed for clarification or emphasis."
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "type": "vocabulary",
+        "vocabulary": [
+          {
+            "title": "Verbs ending in -ar",
+            "chart": [
+              "bajar: to go down",
+              "cocinar: to cook",
+              "comprar: to buy",
+              "conversar: to converse",
+              "cooperar: to cooperate",
+              "dibujar: to draw",
+              "escuchar: to listen",
+              "limpiar: to clean",
+              "preparar: to prepare",
+              "sacar: to take out",
+              "sumar: to add",
+              "trabajar: to work"
+            ]
+          },
+          {
+            "title": "Verbs ending in -er",
+            "chart": [
+              "beber: to drink",
+              "comer: to eat",
+              "comprender: to understand",
+              "correr: to run",
+              "creer: to believe",
+              "leer: to read",
+              "responder: to respond",
+              "romper: to break",
+              "temer: to fear",
+              "vender: to sell"
+            ]
+          },
+          {
+            "title": "Verbs ending in -ir",
+            "chart": [
+              "abrir: to open",
+              "compartir: to share",
+              "cubrir: to cover",
+              "decidir: to decide",
+              "discutir: to discuss",
+              "escribir: to write",
+              "repartir: to distribute",
+              "subir: to go up",
+              "sufrir: to suffer",
+              "vivir: to live"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "¿Qué hacen?",
+            "instructions": "Escribe la forma del presente del verbo entre paréntesis.",
+            "questions": [
+              "Pedro Gomez _(vivir) con su familia en mi ediﬁcio de apartamentos.",
+              "Lucia, la esposa de Pedro, no _(trabajar) todos los dias.",
+              "La hija, Mercedes, _(estudiar) en la universidad.",
+              "Lucia y su esposo _(planear) una visita a Mercedes esta semana.",
+              "Ahora, yo _(subir) a su apartamento.",
+              "Yo _(sacar) a su perro a caminar todos los dias.",
+              "Y tú, ¿_(conversar) con los Gómez?",
+              "Pedro _(necesitar) una persona para cuidar su apartamento esta semana."
+            ],
+            "answers": [
+              "vive",
+              "trabaja",
+              "estudia",
+              "planean",
+              "subo",
+              "saco",
+              "conversas",
+              "necesita"
+            ],
+            "type": "conjugate-blank"
+          },
+          {
+            "title": "Practica",
+            "instructions": "Escribe en español.",
+            "questions": [
+              "I prepare dinner",
+              "The children climb the stairs",
+              "My cats drink milk",
+              "The customer adds up the bill (la cuenta)",
+              "Carli's mother talks to the reporter (el/la reportero[a]",
+              "The actress fears the critics",
+              "Your friends eat fajitas"
+            ],
+            "answers": [
+              "Yo preparo la cena",
+              "Los niños suben las escaleras",
+              "Mis gatos beben leche",
+              "El cliente suma la cuenta",
+              "La mamá de Carli habla con el reportero",
+              "La actriz teme a los críticos",
+              "Tus amigos comen fajitas"
+            ],
+            "type": "translate"
+          }
+        ]
+      }
+    ],
+
+    [
+      { "type": "title", "text": "When is present tense used?" },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "-to describe an action happening now. Often, it is translated with the -ing form in English:"
+            ],
+            "examples": [
+              "Ahora, veo a Anna (Now I see Anna)",
+              "Louis llega a la puerta (Louis is arriving at the gate)"
+            ]
+          },
+          {
+            "text": ["-to express actions that take place regularly:"],
+            "examples": [
+              "Normalmente, compro las frutas en el supermercado (Usually I buyfruit at the supermarket)"
+            ]
+          },
+          {
+            "text": [
+              "-to describe events that will take place in the near future:"
+            ],
+            "examples": [
+              "Mañana discuto el plan con ustedes en la reunion (Tomorrow I will discuss the plan at the meeting)",
+              "Este verano, viajo a Alemania (This summer I am traveling to Germany)"
+            ]
+          },
+          {
+            "text": [
+              "-to ask questions, especially regarding permission, opinion, or preference:"
+            ],
+            "examples": [
+              "¿Bebes café o tê? (Do you drink coffee or tea?)",
+              "¿Abro la puerta? (Shall I open the door?)",
+              "¿Compramos la casa? (Shall we buy the house?)"
+            ]
+          },
+          {
+            "text": [
+              "Keep in mind the auxiliary verb do in English is not translated. In Spanish, an auxiliary verb is not needed to ask a question."
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "type": "vocabulary",
+        "vocabulary": [
+          {
+            "title": "Time expressions",
+            "chart": [
+              "al mediodía: (at noon)",
+              "de vez en cuando: from time to time",
+              "en lunes: on Monday",
+              "esta semana: this week",
+              "este mes: this month",
+              "hoy: today",
+              "los lunes: on Mondays",
+              "nunca: never",
+              "por la mañana: in the morning",
+              "por la noche: in the evening",
+              "por la tarde: in the afternoon",
+              "siempre: always",
+              "todas las semanas: every week",
+              "todos los días: every day",
+              "todos los meses: every month"
+            ]
+          }
+        ]
+      },
+
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "Y en tu caso...",
+            "instructions": "¿Es verdadero o falso?",
+            "questions": [
+              "Desayuno a las ocho todos los días.",
+              "Miro los programas de noticias por el cable por la tarde.",
+              "Trabajo ocho horas.",
+              "Escribo mensajes electrónicos todos los días.",
+              "Preparo la cena de lunes a viernes.",
+              "Como muchas frutas yvegetales frescos."
+            ],
+            "type": "open-ended-TF"
+          },
+          {
+            "title": "En español",
+            "instructions": "Usa el presente",
+            "questions": [
+              "Today Martha and Linus are celebrating their anniversary",
+              "Their relatives (parientes) arrive on time",
+              "Some friends are talking in the living room.",
+              "In the back yard, the children listen to Latin music.",
+              "The smell (el olor) of enchiladas circulates through the house.",
+              "The children drink lemonade."
+            ],
+            "answers": [
+              "Hoy Martha y Linus celebran su aniversario",
+              "Sus parientes llegan a tiempo",
+              "Unos amigos conversan en la sala",
+              "En el patio, los niños escuchan música latina",
+              "El olor a enchiladas circula por toda la casa",
+              "Los niños beben limonada"
+            ],
+            "type": "translate"
+          },
+          {
+            "title": "Preguntas personales",
+            "instructions": "Usa el presente",
+            "questions": [
+              "¿Vives en el campo o en una ciudad?",
+              "¿Lees novelas de misterio o de ciencia-ficción?",
+              "¿Hablas de política o de deportes con tus amigos?",
+              "¿Bebes té o café??",
+              "¿Trabajas de dia o de noche",
+              "¿Compartes tu tempo libre con tu perro o con tu gato?"
+            ],
+            "type": "open-ended"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "title",
+        "text": "Other uses of the present tense"
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "-to tell facts considered unquestionable or universal truths:"
+            ],
+            "examples": [
+              "Cinco mas quince son veinte (Five plus fifteen is twenty.)"
+            ]
+          },
+          {
+            "text": [
+              "-to describe a past event, making it more vivid (historial present:"
+            ],
+            "examples": [
+              "En 1969 el primer hombre llega a la luna (The first man gets to the moon in 1969.)"
+            ]
+          },
+          {
+            "text": [
+              "-to express future actions that are part of a schedule or itinerary:"
+            ],
+            "examples": ["El tren sale a las ocho (The train leaves at eight.)"]
+          },
+          {
+            "text": ["to express hypothetical actions introduced by si."],
+            "examples": [
+              "Si llega el tren, salimos (If the train arrives, we leave.)"
+            ]
+          },
+          {
+            "text": [
+              "to refer to possible consequences from an action that took place in the past with casi (almost) and por poco (nearly)"
+            ],
+            "examples": [
+              "Sacé la pistola y casi me mata (He pulled out his gun and almost killed me.)"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "Un poco de historia",
+            "instructions": "¿Verdadero o falso?",
+            "questions": [
+              "Napoleón invade España en el siglo XIX.",
+              "La mujer vota por primera vez en los Estados Unidos en 1929.",
+              "Mel Fisher ﬁnalmente descubre el buque “Atocha” cerca de Key West.",
+              "Colon visita la Florida en 1495.",
+              "Los hispanos colonizan gran parte de los Estados Unidos antes que los ingleses."
+            ],
+            "answers": ["V", "F", "V", "F", "V"],
+            "type": "true-false"
+          }
+        ]
+      }
+    ],
+    [
+      { "type": "title", "text": "Irregular Verbs in the Present Tense" },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "Many Spanish verbs do not follow the patterns of the regular verbs you have just studied.",
+              "Instead, they change the root (or radical) of the verb, the conjugation endings, or both.",
+              "Because they follow different patterns, they are considered irregular verbs.",
+              "Since irregular verbs are so commonly used, a good strategy to identify and learn them is to focus on similarities, grouping them into patterns.",
+              "The following verbs are irregular in first-person only:"
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "First Person Irregular",
+            "chart": [
+              "caber (to fit) => quepo",
+              "cae (to fall => caigo",
+              "dar (to give) => doy",
+              "estar (to be) => estoy",
+              "hacer (to do) => hago",
+              "poner (to put) => pongo",
+              "saber (to know) => sé",
+              "salir (to leave) => salgo",
+              "traer (to bring) => traigo",
+              "valer (to be worth) => valgo",
+              "ver (to see) => veo"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "Practica",
+            "instructions": "Escribe en español.",
+            "questions": [
+              "I give",
+              "They put",
+              "You (Uds.) see",
+              "We fit in",
+              "I bring",
+              " I fall",
+              "You do",
+              "I get out"
+            ],
+            "answers": [
+              "doy",
+              "ponen",
+              "ven",
+              "cabemos",
+              "traigo",
+              "caigo",
+              "haces",
+              "salgo"
+            ],
+            "type": "conjugate-plain"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "title",
+        "text": "Irregular Verbs in the Present Tense (con't)"
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "The compounds of these verbs are also irregular in the yo form only",
+              "they add the consonant g between the radical and the verb ending",
+              "Compounds are easy to spot because they show a preﬁx (des-, dis-, com-, con-, etc.) preceding the radical."
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "Irregular Compound Verbs",
+            "chart": [
+              "componer (to compose) => compongo",
+              "deshacer (to undo) => deshago",
+              "disponer (to dispose) => dispongo",
+              "distraer [se] (to distract [oneself]) => distraigo",
+              "proponer (to propose) => propongo",
+              "rehacer (to redo) => rehago",
+              "reponer (to replace) => repongo",
+              "suponer (to suppose) => supongo"
+            ]
+          }
+        ]
+      },
+
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "En español",
+            "questions": [
+              "I propose a break (un descanso).",
+              "You suppose the worst (lo peor).",
+              "They replace the money.",
+              "I undo the work",
+              "She composes a song",
+              "The girls distract the driver"
+            ],
+            "answers": [
+              "Yo propongo un descanso.",
+              "Tú supones lo peor.",
+              "Ellos reponen el dinero.",
+              "Yo deshago el trabajo.",
+              "Ella compone una canción.",
+              "Las chicas distraen al conductor."
+            ],
+            "type": "translate"
+          },
+          {
+            "title": "Pareados",
+            "instructions": "Escribe la letra de la respuesta más lógica.",
+            "questions": [
+              "Sé",
+              "Distraigo",
+              "No quepo",
+              "Compongo",
+              "Propongo",
+              "Pongo",
+              "Salgo",
+              "Caigo"
+            ],
+            "choices": [
+              "a. a mis compañeros de trabajo.",
+              "b. que trabajas mucho.",
+              "c. música para mis canciones.",
+              "d. en esa trampa a menudo.",
+              "e. de la conferencia ahora.",
+              "f. una solución para tu problema.",
+              "g. el agua en un vaso.",
+              "h. en estos pantalones."
+            ],
+            "answers": [
+              "b. que trabajas mucho.",
+              "a. a mis compañeros de trabajo.",
+              "h. en estos pantalones.",
+              "c. música para mis canciones.",
+              "f. una solución para tu problema.",
+              "g. el agua en un vaso.",
+              "e. de la conferencia ahora.",
+              "d. en esa trampa a menudo."
+            ],
+            "type": "matching"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "title",
+        "text": "Other Verbs with Irregular Forms in the First Person"
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "Verbs that end in a vowel followed by -cer and -cir change 0 to zc in the ﬁrst-person singular only",
+              "They are conjugated like conocer."
+            ],
+            "examples": ["Conozco muy bien a Margo", "I know Margo very well."]
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "-er verbs like conocer",
+            "chart": [
+              "agradecer (to thank) => agradezco",
+              "aparecer (to appear) => aparezco",
+              "complacer (to please) => complazco",
+              "crecer (to grow) => crezco",
+              "establecer (to establish) => establezco",
+              "mercer (to deserve) => merezco",
+              "obedecer (to obey) => obedezco",
+              "ofrecer (to offer) => ofrezco",
+              "padecer (to suffer) => padezco",
+              "paermanecar (to remain) => permanezco",
+              "pertenecer (to belong) => pertenezco",
+              "reconocer (to recognize) => reconozco"
+            ]
+          },
+          {
+            "title": "-ir verbs like conducir",
+            "chart": [
+              "conducir (to drive) => conduzco",
+              "conocer (to know) => conozco",
+              "desaparecer (to disappear) => desaparezco",
+              "desconocer (to be unfamiliar with) => desconozco",
+              "producir (to produce) => produzco",
+              "traducir (to translate) => traduzco"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "Practica",
+            "instructions": "Escribe la form correspondiente del verbo entre paréntesis.",
+            "questions": [
+              "Yo _(conducir) el coche.",
+              "Marta y tu _(salir) de casa juntos",
+              "Yo no _(conocer) a esa familia.",
+              "¿Quién _(ofrecer) mas por este cuadro?",
+              "¡Yo no _(merecer) este regalo",
+              "Las asistentes del director _(obedecer) sus órdenes.",
+              "¡Tu _(percenecer) a una familia muy famosa!",
+              "Marcia _(conocer) a los padres de Luisa"
+            ],
+            "answers": [
+              "conduzco",
+              "salís",
+              "conozco",
+              "ofrece",
+              "merezco",
+              "obedecen",
+              "perteneces",
+              "conoce"
+            ],
+            "type": "conjugate-blank"
+          },
+          {
+            "title": "Y yo?",
+            "instructions": "Escribe en español. Usa el presente",
+            "questions": [
+              "I deserve a raise",
+              "Do I go out now?",
+              "I am grateful for your friendship",
+              "I do not belong to this group",
+              "I translate the instructions",
+              "I seldom impose my ideas",
+              "I remain quiet (callado[a])"
+            ],
+            "answers": [
+              "Merezco un aumento de sueldo.",
+              "¿Salgo ahora?",
+              "Agradezco tu amistad.",
+              "No pertenezco a este grupo.",
+              "Traduzco las instrucciones.",
+              "Rara vez impongo mis ideas.",
+              "Permanezco callado/a."
+            ],
+            "type": "translate"
+          }
+        ]
+      }
+    ],
+
+    [
+      {
+        "type": "title",
+        "text": "Other Frequently Used Verbs with Irregular Forms in the Present Tense"
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "Study the conjugation of the following verbs",
+              "They have irregular forms in the present tense:"
+            ],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "decir (to say)",
+            "chart": ["digo", "dices", "dice", "decimos", "decís", "dicen"]
+          },
+          {
+            "title": "ir (to go)",
+            "chart": ["voy", "vas", "va", "vamos", "vais", "van"]
+          },
+          {
+            "title": "oir (to hear)",
+            "chart": ["oigo", "oyes", "oye", "oímos", "oís", "oyen"]
+          },
+          {
+            "title": "ser (to be)",
+            "chart": ["soy", "eres", "es", "somos", "sois", "son"]
+          },
+          {
+            "title": "tener (to have)",
+            "chart": ["tengo", "tienes", "tiene", "tenemos", "tenéis", "tienen"]
+          },
+          {
+            "title": "venir",
+            "chart": ["vengo", "vienes", "viene", "venimos", "venís", "vienen"]
+          }
+        ]
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "Note that haber is also irregular.",
+              "One meaning of haber is to have",
+              "However, in the present as well as in other tenses, haber is more frequently used as an impersonal verb in the third-person singular form.",
+              "The present tense form is hay. It means there is and there are."
+            ],
+            "examples": [
+              "Hay tres sillas en la sala (There are three chairs in the living room.)",
+              "Hay una posibilidad solamente (There is only one possibiility)"
+            ]
+          },
+          {
+            "text": ["Compounds of tener have the same irregular forms"],
+            "examples": []
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "Verbs like tener",
+            "chart": [
+              "contener (to contain) => contengo",
+              "detener (to detain) => detengo",
+              "mantener (to maintain) => mantengo",
+              "obtener (to obtain) => obtengo",
+              "retener (to retain) => retengo",
+              "sostener (to sustain) => sostengo"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "En español",
+            "questions": [
+              "There is one person",
+              "There are ten programs",
+              "I go now",
+              "I do not hear music",
+              "Do you (Ud.) see the bus?",
+              "I tell the truth",
+              "You (Uds.) have time",
+              "They stop the car"
+            ],
+            "answers": [
+              "Hay una persona",
+              "Hay diez programas",
+              "Voy ahora",
+              "No oigo música",
+              "¿Ve Ud. el autobús?",
+              "Digo la verdad",
+              "Tienen tiempo",
+              "Detienen el coche"
+            ],
+            "type": "translate"
+          },
+          {
+            "title": "La television y la cocina",
+            "instructions": "Escribe la form correspondiente del presente",
+            "questions": [
+              "Nosotros _(estar) en un estudio de television con el Chef Horacio",
+              "El _(ser) un apasionado de la cocina y son una obra de arte",
+              "_(decir) que sus platos",
+              "_(haber) muchos aficionados que ven se programa, 'Cocina con Horacio'",
+              "_(oir) los comentarios favorables de sus adiradores.",
+              "Ellos _(venir) al estudio para ver a su estrella favorita",
+              "Luisa _(venir) para probar las creaciones exquisitas de Horacio",
+              "Los ténicios _(estar) ocupados filmando el program de hoy",
+              "Sus admiradores _(ir) al estudio muy temprano"
+            ],
+            "answers": [
+              "estamos",
+              "es",
+              "dice",
+              "hay",
+              "oyen",
+              "vienen",
+              "viene",
+              "están",
+              "van"
+            ],
+            "type": "conjugate-blank"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "title",
+        "text": "Verbs with spelling Changes in the present tense"
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              " In the present tense, certain verbs have spelling changes.",
+              "These are determined by Spanish rules of pronunciation to preserve the sound appearing in the inﬁnitive.",
+              "The following groups of verbs have spelling changes before the verb ending -o, in the yo form only."
+            ],
+            "examples": [
+              "Verbs ending in -ger or -gir change g to j before the -o ending"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "coger (to catch)",
+            "chart": ["cojo", "exijo", "escojo", "protejo", "escojo", "escojo"]
+          },
+          {
+            "title": "exigir (to demand)",
+            "chart": [
+              "exijo",
+              "exiges",
+              "exige",
+              "exigimos",
+              "exigís",
+              "exigen"
+            ]
+          },
+          {
+            "title": "Verbs like coger",
+            "chart": [
+              "encoger (to shrink) => encojo",
+              "escoger (to choose) => escojo",
+              "proteger (to protect) => protejo",
+              "recoger (to pick up) => recojo"
+            ]
+          },
+          {
+            "title": "Verbs like exigir",
+            "chart": [
+              "dirigir (to direct) => dirijo",
+              "elegir (to elect) => elijo",
+              "fingir (to pretend) => finjo",
+              "proseguir (to continue) => prosigo",
+              "repetir (to repeat) => repito",
+              "seguir (to follow) => sigo",
+              "vestir (to dress) => visto"
+            ]
+          },
+
+          {
+            "title": "verbs like distinguir",
+            "chart": [
+              "conseguir (to obtain) => consigo",
+              "extinguir (to extinguish) => extingo",
+              "perseguir (to pursue) => persigo"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": ["Other -gir verbs have stem changes as well."],
+            "examples": ["Verbs ending in -guir gu to g before the o- ending:"]
+          }
+        ]
+      },
+
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "distinguir (to distinguish)",
+            "chart": [
+              "distingo",
+              "distingues",
+              "distingue",
+              "distinguimos",
+              "distinguís",
+              "distinguen"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": ["Other -guir verbs have stem changes as well."],
+            "examples": [
+              "Verbs ending in -cer and -cir change c to z before the o- ending:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "chart",
+        "chart": [
+          {
+            "title": "convencer (to convince)",
+            "chart": [
+              "convenzo",
+              "convences",
+              "convence",
+              "convencemos",
+              "convencéis",
+              "convencen"
+            ]
+          },
+          {
+            "title": "Verbs like convencer",
+            "chart": [
+              "ejercer (to exercise) => ejerzo",
+              "vencer (to defeat) => venzo"
+            ]
+          },
+          {
+            "title": "Some -cer and -cir verbs may have stem changes as well: e changes to i and o to ue",
+            "chart": [
+              "elegir (to elect) => elijo",
+              "torcer (to twist) => tuerzo"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "Yo tambien",
+            "instructions": "Write the present tense of the yo form of the verb",
+            "questions": [
+              "Exige una explicacion",
+              "Escoge los colores",
+              "Extingue el fuego",
+              "Recoge los periodicos",
+              "Vence los obstaculos",
+              "Protege sus derechos",
+              "Convence a sus amigos",
+              "No finge"
+            ],
+            "answers": [
+              "exijo",
+              "escojo",
+              "extingo",
+              "recojo",
+              "venzo",
+              "protege",
+              "convenzo",
+              "finge"
+            ],
+            "type": "conjugate-plain"
+          }
+        ]
+      }
+    ],
+    [
+      { "type": "title", "text": "Dar & Haber: Expressions" },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": [
+              "Dar, haber, hacer, and tener have irregular forms in the present.",
+              "They appear frequently in idiomatic expressions",
+              "Many are formed with a conjugated verb + infinitive, called formas perifrásticas or perífrasis verbales",
+              "Note the use of present tense in the examples with dar, haber, hacer, and tener that follow"
+            ],
+            "examples": []
+          },
+          {
+            "text": ["Dar"],
+            "examples": [
+              "dar un abrazo (to hug) => Le da un abrazo a su amigo",
+              "dar gritos (to shout) => La multitud de gritos",
+              "dar la hora (to strike the hour) => El reloj da la una"
+            ]
+          },
+          {
+            "text": ["Haber"],
+            "examples": [
+              "hay que + infinitive (to be necessary) => Hay que estudiar para aprendar",
+              "haber sol (to be sunny => hay sol por la mañana",
+              "haber neblina (to be foggy) => Hay neblina este mañana"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "Y en tu caso...",
+            "instructions": "¿Verdadero o falso?",
+            "questions": [
+              "Ahora hay mucho sol",
+              "Mi reloj da la una y media",
+              "Generalmente, hay sol por la noche",
+              "A veces hay neblina en la carretera",
+              "Los jovenes dan gritos en los conciertos de rock"
+            ],
+            "type": "open-ended-TF"
+          }
+        ]
+      }
+    ],
+    [
+      { "type": "title", "text": "Hacer & Tener: Expressions" },
+      {
+        "type": "grammar",
+        "grammar": [
+          {
+            "text": ["Hacer"],
+            "examples": [
+              "Hacer calor, hace fresco (to be warm, to be cool) => Hace fresco, no hace calor",
+              "hacer viento (to be windy) => Hace viento",
+              "hacer un viaje (to take a trip) => Lina hace un viaje a las Bahamas",
+              "hacer una visita (to pay a visit) => Marcus hace una visita a su abuela",
+              "hacer una pregunta (to ask a question) => El profesor hace una pregunta",
+              "hacer daño (to harm) => Beber much agua no te hace daño",
+              "hacer caso a (to pay attention to) => Los niños no hacen caso al maestro",
+              "hacer el papel de (to play the role of) => El actor hace el papel de un policia"
+            ]
+          },
+          {
+            "text": ["Tener"],
+            "examples": [
+              "tener + que + infinitive (to have to do something) => Tenemos que salir",
+              "tener frio (to be cold) => Tengo frio",
+              "tener hambre (to be hungry) => ¿Tienes hambre?",
+              "tener miedo (to be scared) => No tienen miedo a las serpientes",
+              "tener razón (to be right) => Yo tingo razón",
+              "tener sed (to be thirsty) => ¿Tienes sed?",
+              "tener prisa (to be in a hurry) => Mi esposo tiene prisa",
+              "tener culpa (to be to blame) => El sospechoso tiene la culpa de este accidente",
+              "tener lugar (to take place) => La reunion tiene lugar los domingos"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "exercises": [
+          {
+            "title": "En español",
+            "questions": [
+              "Are you hungry?",
+              "We are thirsty.",
+              "Lori pays a visit to her cousin.",
+              "Mario hugs his friend.",
+              "They are in a hurry.",
+              "You are right this time.",
+              "I am not afraid.",
+              "Are you cold?"
+            ],
+            "answers": [
+              "¿Tienes hambre?",
+              "Tenemos sed.",
+              "Lori hace una visita a su primo.",
+              "Mario da un abrazo a su amigo.",
+              "Tienen prisa.",
+              "Tienes razón esta vez.",
+              "No tengo miedo.",
+              "¿Tienes frío?"
+            ],
+            "type": "translate"
+          },
+          {
+            "title": "Y en tu caso...",
+            "instructions": "¿Verdadero o falso?",
+            "questions": [
+              "Tengo sed y hambre",
+              "No tenga la culpa de nada",
+              "Tengo que limpiar mi cuarto",
+              "Hace calor aqui",
+              "Tengo frio",
+              "Tengo mucho sueño",
+              "Nunca tengo prisa",
+              "Hago un viaje pronto"
+            ],
+            "type": "open-ended-TF"
+          }
+        ]
+      }
+    ]
+  ]
+}
