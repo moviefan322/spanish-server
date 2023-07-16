@@ -59,4 +59,14 @@ export class FlashcardsService {
 
     return this.repo.save(flashcard);
   }
+
+  async delete(id: number) {
+    const flashcard = await this.repo.findOne({ where: { id } });
+
+    if (!flashcard) {
+      throw new NotFoundException('Flashcard not found');
+    }
+
+    return this.repo.remove(flashcard);
+  }
 }

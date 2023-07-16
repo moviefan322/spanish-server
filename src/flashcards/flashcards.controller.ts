@@ -1,4 +1,12 @@
-import { Controller, Body, Post, Get, Param, Put } from '@nestjs/common';
+import {
+  Controller,
+  Body,
+  Post,
+  Get,
+  Param,
+  Put,
+  Delete,
+} from '@nestjs/common';
 import { FlashcardsService } from './flashcards.service';
 import { CreateFlashcardDto } from './dto/create-flashcard.dto';
 import { UpdateFlashcardDto } from './dto/update-flashcard.dto';
@@ -23,5 +31,11 @@ export class FlashcardsController {
     const { correct } = body;
     const flashcard = await this.flashcardsService.update(id, correct);
     return flashcard;
+  }
+
+  @Delete('/:id')
+  async delete(@Param('id') id: number) {
+    const flashcard = await this.flashcardsService.delete(id);
+    return { Deleted: flashcard };
   }
 }
