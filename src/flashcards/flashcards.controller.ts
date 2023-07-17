@@ -12,6 +12,8 @@ import { FlashcardsService } from './flashcards.service';
 import { CreateFlashcardDto } from './dto/create-flashcard.dto';
 import { UpdateFlashcardDto } from './dto/update-flashcard.dto';
 import { AuthGuard } from '@nestjs/passport';
+import { GetUser } from '../auth/get-user-decorator';
+import { User } from '../auth/user.entity';
 
 @Controller('flashcards')
 @UseGuards(AuthGuard())
@@ -24,15 +26,26 @@ export class FlashcardsController {
   }
 
   @Post()
-  async create(@Body() body: CreateFlashcardDto) {
-    const flashcard = await this.flashcardsService.create(body);
+  async create(
+    @Body() CreateFlashcardDto: CreateFlashcardDto,
+    @GetUser() user: User,
+  ) {
+    const flashcard = await this.flashcardsService.create(
+      CreateFlashcardDto,
+      user,
+    );
     return flashcard;
   }
 
   @Put('/:id')
-  async update(@Param('id') id: number, @Body() body: UpdateFlashcardDto) {
-    const { correct } = body;
-    const flashcard = await this.flashcardsService.update(id, correct);
+  async update(
+    @Param('id') id: number,
+    @Body() updateFlashcardDto: UpdateFlashcardDto,
+  ) {
+    const flashcard = await this.flashcardsService.update(
+      id,
+      updateFlashcardDto,
+    );
     return flashcard;
   }
 

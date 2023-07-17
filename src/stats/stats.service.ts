@@ -4,6 +4,7 @@ import { Repository } from 'typeorm';
 import { Stat } from './stat.entity';
 import { CreateStatDto } from './dto/create-stat.dto';
 import { UpdateStatDto } from './dto/update-stat.dto';
+import { User } from '../auth/user.entity';
 
 @Injectable()
 export class StatsService {
@@ -16,9 +17,8 @@ export class StatsService {
     return this.repo.find();
   }
 
-  async create(statDto: CreateStatDto) {
-    console.log(statDto);
-    const stat = this.repo.create(statDto);
+  async create(statDto: CreateStatDto, user: User) {
+    const stat = this.repo.create({ ...statDto, user });
     return this.repo.save(stat);
   }
 

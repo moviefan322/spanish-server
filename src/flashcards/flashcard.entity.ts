@@ -12,6 +12,9 @@ export class Flashcard {
   @Column()
   english: string;
 
+  @ManyToOne((_type) => User, (user) => user.flashcards, { eager: false })
+  user: User;
+
   @Column({ default: true })
   priority: boolean;
 
@@ -23,7 +26,4 @@ export class Flashcard {
 
   @Column('simple-array', { default: [] })
   last5: string[];
-
-  @ManyToOne((_type) => User, (user) => user.flashcards, { eager: false })
-  user: User;
 }

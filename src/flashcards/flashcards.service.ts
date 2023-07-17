@@ -3,6 +3,8 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { Flashcard } from './flashcard.entity';
 import { CreateFlashcardDto } from './dto/create-flashcard.dto';
+import { UpdateFlashcardDto } from './dto/update-flashcard.dto';
+import { User } from '../auth/user.entity';
 
 @Injectable()
 export class FlashcardsService {
@@ -11,8 +13,9 @@ export class FlashcardsService {
     private repo: Repository<Flashcard>,
   ) {}
 
-  async create(flashcardDto: CreateFlashcardDto) {
-    const flashcard = this.repo.create(flashcardDto);
+  async create(flashcardDto: CreateFlashcardDto, user: User) {
+    const { spanish, english } = flashcardDto;
+    const flashcard = this.repo.create({ spanish, english, user });
     return this.repo.save(flashcard);
   }
 
@@ -20,7 +23,8 @@ export class FlashcardsService {
     return this.repo.find();
   }
 
-  async update(id: number, correct: boolean) {
+  async update(id: number, updateFlashcardDto: UpdateFlashcardDto) {
+    const { correct } = updateFlashcardDto;
     const flashcard: Flashcard = await this.repo.findOne({ where: { id } });
 
     if (!flashcard) {
