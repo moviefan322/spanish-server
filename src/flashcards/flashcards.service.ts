@@ -19,7 +19,7 @@ export class FlashcardsService {
     return this.repo.save(flashcard);
   }
 
-  async getFlashcards() {
+  async getFlashcards(): Promise<Flashcard[]> {
     return this.repo.find();
   }
 

@@ -14,6 +14,7 @@ import { UpdateFlashcardDto } from './dto/update-flashcard.dto';
 import { AuthGuard } from '@nestjs/passport';
 import { GetUser } from '../auth/get-user-decorator';
 import { User } from '../auth/user.entity';
+import { Flashcard } from './flashcard.entity';
 
 @Controller('flashcards')
 @UseGuards(AuthGuard())
@@ -21,7 +22,7 @@ export class FlashcardsController {
   constructor(private readonly flashcardsService: FlashcardsService) {}
 
   @Get()
-  async getFlashcards() {
+  async getFlashcards(): Promise<Flashcard[]> {
     return this.flashcardsService.getFlashcards();
   }
 
