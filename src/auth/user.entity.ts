@@ -1,5 +1,7 @@
-import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn, OneToMany } from 'typeorm';
 import { IsEmail } from 'class-validator';
+import { Stat } from 'src/stats/stat.entity';
+import { Flashcard } from 'src/flashcards/flashcard.entity';
 
 @Entity()
 export class User {
@@ -15,4 +17,12 @@ export class User {
 
   @Column()
   username: string;
+
+  @OneToMany((_type) => Stat, (stat) => stat.user, { eager: true })
+  stats: Stat[];
+
+  @OneToMany((_type) => Flashcard, (flashcard) => flashcard.user, {
+    eager: true,
+  })
+  flashcards: Flashcard[];
 }

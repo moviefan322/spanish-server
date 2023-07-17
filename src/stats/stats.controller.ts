@@ -5,14 +5,15 @@ import {
   Body,
   Put,
   Param,
-  ParseIntPipe,
-  UsePipes,
+  UseGuards,
 } from '@nestjs/common';
 import { StatsService } from './stats.service';
 import { CreateStatDto } from './dto/create-stat.dto';
 import { UpdateStatDto } from './dto/update-stat.dto';
+import { AuthGuard } from '@nestjs/passport';
 
 @Controller('stats')
+@UseGuards(AuthGuard())
 export class StatsController {
   constructor(private readonly statsService: StatsService) {}
 

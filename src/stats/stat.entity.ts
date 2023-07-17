@@ -1,4 +1,5 @@
-import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
+import { Column, Entity, PrimaryGeneratedColumn, ManyToOne } from 'typeorm';
+import { User } from 'src/auth/user.entity';
 
 @Entity()
 export class Stat {
@@ -13,4 +14,7 @@ export class Stat {
 
   @Column()
   outOf: number;
+
+  @ManyToOne((_type) => User, (user) => user.stats, { eager: false })
+  user: User;
 }

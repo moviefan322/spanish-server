@@ -6,12 +6,15 @@ import {
   Param,
   Put,
   Delete,
+  UseGuards,
 } from '@nestjs/common';
 import { FlashcardsService } from './flashcards.service';
 import { CreateFlashcardDto } from './dto/create-flashcard.dto';
 import { UpdateFlashcardDto } from './dto/update-flashcard.dto';
+import { AuthGuard } from '@nestjs/passport';
 
 @Controller('flashcards')
+@UseGuards(AuthGuard())
 export class FlashcardsController {
   constructor(private readonly flashcardsService: FlashcardsService) {}
 

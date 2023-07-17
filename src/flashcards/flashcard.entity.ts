@@ -1,4 +1,5 @@
-import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
+import { Column, Entity, PrimaryGeneratedColumn, ManyToOne } from 'typeorm';
+import { User } from 'src/auth/user.entity';
 
 @Entity()
 export class Flashcard {
@@ -22,4 +23,7 @@ export class Flashcard {
 
   @Column('simple-array', { default: [] })
   last5: string[];
+
+  @ManyToOne((_type) => User, (user) => user.flashcards, { eager: false })
+  user: User;
 }
