@@ -2,10 +2,12 @@ import { Entity, Column, PrimaryGeneratedColumn, OneToMany } from 'typeorm';
 import { IsEmail } from 'class-validator';
 import { Stat } from 'src/stats/stat.entity';
 import { Flashcard } from 'src/flashcards/flashcard.entity';
+import { Exclude } from 'class-transformer';
 
 @Entity()
 export class User {
   @PrimaryGeneratedColumn()
+  @Exclude({ toPlainOnly: true })
   id: number;
 
   @Column({ unique: true })
@@ -13,6 +15,7 @@ export class User {
   email: string;
 
   @Column()
+  @Exclude({ toPlainOnly: true })
   password: string;
 
   @Column()
