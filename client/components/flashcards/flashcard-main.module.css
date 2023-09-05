@@ -1,0 +1,32 @@
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  height: 400px;
+  width: 80%;
+  padding: 3rem;
+  background-color: rgb(130, 129, 129);
+  margin: 3rem auto;
+}
+
+.cardContainer div {
+  justify-self: center;
+}
+
+.flashcardMain button {
+  background-color: rgba(0, 255, 8, 0.694);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  font-weight: 700;
+  border: 1px solid black;
+  color: black;
+}
+
+/* media query for desktop */
+
+@media (min-width: 768px) {
+  .cardContainer {
+    width: 50%;
+  }
+}

@@ -1,0 +1,42 @@
+.welcome {
+  padding-top: 2rem;
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+}
+
+.section {
+  margin: 2rem 0;
+}
+
+.section h1 {
+  background-color: var(--green);
+  padding: 1rem;
+  border-radius: 2.5rem;
+  border: 1px solid black;
+  margin: 1rem auto;
+  width: fit-content;
+}
+
+.section p {
+  padding: 1rem 1rem;
+  background: rgb(245, 255, 238);
+  border: 1px solid black;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.Link {
+  background-color: var(--green);
+  padding: 1rem;
+  border-radius: 2.5rem;
+  border: 1px solid black;
+  margin: 1rem auto;
+  width: fit-content;
+  font-weight: 700;
+}
+
+.Link:hover {
+  background-color: yellow;
+  font-size: 1.1rem;
+}
